@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CONOCIENDOADIOS]]></title>
         <description><![CDATA[CONOCIENDOADIOS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/conociendoadios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 01:23:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 01:27:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/conociendoadios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c14c46a9-2aa5-42d7-9e37-daa712038f73.jpg">]]></description>
+            <link>https://thegrid.ai/conociendoadios/dc705676-20f2-4076-b707-e8e5ef0b38e1/index.html</link>
+            <guid isPermaLink="false">dc705676-20f2-4076-b707-e8e5ef0b38e1</guid>
+            <pubDate>Wed, 10 Aug 2016 01:27:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>ESTUDIO BÍBLICO</p>]]></description>
-            <link>undefinedestudio-biblico/index.html</link>
+            <link>https://thegrid.ai/conociendoadios/estudio-biblico/index.html</link>
             <guid isPermaLink="false">a5d3de9e-4691-4d51-84be-73566a14a3d9</guid>
             <pubDate>Wed, 10 Aug 2016 01:23:15 GMT</pubDate>
         </item>
